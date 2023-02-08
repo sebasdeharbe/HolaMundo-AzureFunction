@@ -2,4 +2,8 @@
 # The Python Worker is managed by Azure Functions platform
 # Manually managing azure-functions-worker may cause unexpected issues
 
+#en este archivo se incluyen todas las dependencias y se ejecuta con el comando
+#pip install -r requirement.txt
+
 azure-functions
+requests
